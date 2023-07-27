@@ -6,5 +6,5 @@ A central place to manage brand assets like logos
 ### SVG
 
 **Dark**  
-![Dark Avion logo SVG](./assets/logo.svg)  
-[View raw](./assets/logo.svg)
+![Dark Avion logo SVG](/brand/assets/logo.svg)  
+[View raw](/brand/assets/logo.svg)  
