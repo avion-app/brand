@@ -18,10 +18,10 @@ Note: The light colour is #f7f8f8
 The SVGs are identical apart from the dark and light colouring.
 
 **Standard emblem SVG**  
-<img src="/brand/assets/emblem.svg" width="50%" height="50%">
+<img src="/brand/assets/emblem.svg" width="25%" height="25%">
 [View raw](/brand/assets/emblem.svg)  
 
 **Multi-use emblem SVG**  
-<img src="/brand/assets/emblem-multi-use.svg" width="50%" height="50%">
+<img src="/brand/assets/emblem-multi-use.svg" width="25%" height="25%">
 [View raw](/brand/assets/emblem-multi-use.svg)  
 Note: The light colour is #f7f8f8, but this can be used with other fills (sensibly)
