@@ -11,17 +11,17 @@ A central place to manage brand assets like logos
 Note: The dark colour is #2d2d2d
 
 **Light Logo SVG**  
-![Light Avion logo SVG](/brand/assets/logo-light.svg)  
+<img src="/brand/assets/logo-light.svg" width="50%" height="50%">
 [View raw](/brand/assets/logo-light.svg)  
 Note: The light colour is #f7f8f8
 
 The SVGs are identical apart from the dark and light colouring.
 
 **Standard emblem SVG**  
-![Avion emblem SVG](/brand/assets/emblem.svg)  
+<img src="/brand/assets/emblem.svg" width="50%" height="50%">
 [View raw](/brand/assets/emblem.svg)  
 
 **Multi-use emblem SVG**  
-![Multi-use Avion emblem SVG](/brand/assets/emblem-multi-use.svg)  
+<img src="/brand/assets/emblem-multi-use.svg" width="50%" height="50%">
 [View raw](/brand/assets/emblem-multi-use.svg)  
 Note: The light colour is #f7f8f8, but this can be used with other fills (sensibly)
