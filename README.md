@@ -6,7 +6,7 @@ A central place to manage brand assets like logos
 ### SVG
 
 **Dark Logo SVG**  
-<img src="/brand/assets/logo-dark.svg" width=50% height=50%>
+<img src="/brand/assets/logo-dark.svg" width="50%" height="50%">
 [View raw](/brand/assets/logo-dark.svg)  
 Note: The dark colour is #2d2d2d
 
